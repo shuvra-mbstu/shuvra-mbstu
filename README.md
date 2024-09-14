@@ -1,6 +1,6 @@
 # Shuvra Debnath - GitHub Profile
 
-![Profile Banner](https://github.com/shuvra-mbstu)
+![Profile Banner](https://github.com/shuvra-mbstu/shuvra-mbstu/blob/main/Shuvra%20Debnath.png)
 
 ## 👋 Hi, I'm Shuvra Debnath!
 
