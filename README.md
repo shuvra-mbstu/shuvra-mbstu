@@ -8,7 +8,7 @@ I am a Java Backend Developer with over 4 years of experience designing, optimiz
 
 - 🌍 Based in **Almere, Netherlands**
 - 💼 Currently working as a **Software Developer II** at **Frai GmbH**
-- 💡 Curious about **AI/ML integrations**, **New technology**, and **Scalable Architecture**
+- 💡 Passionate about **AI/ML integrations**, **cutting-edge technologies**, and **Scalable Architecture**. I love diving deep into optimizing system performance, leveraging data-driven insights of real-world applications. My curiosity extends to **Quantum Computing** and **Edge AI**, always eager to learn and apply new advancements to create impactful tech solutions.
 
 ---
 
