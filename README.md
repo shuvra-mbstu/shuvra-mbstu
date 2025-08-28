@@ -1,20 +1,27 @@
 # Shuvra Debnath - GitHub Profile
 
-![Profile Banner](https://github.com/shuvra-mbstu/shuvra-mbstu/blob/main/Shuvra%20Debnath%20(1).png)
+![Profile Banner](https://github.com/shuvra-mbstu/shuvra-mbstu/blob/main/cover%20Image.png)
 
 ## 👋 Hi, I'm Shuvra Debnath!
 
-I am a Java Backend Developer with over 4 years of experience designing, optimizing, and deploying scalable systems. My expertise lies in building RESTful APIs, microservices, and working with technologies such as Java, Spring Boot, and PostgreSQL. I am passionate about crafting robust backend solutions for high-traffic, data-driven applications while collaborating with cross-functional teams to deliver high-quality, maintainable code.
+I am a Software Engineer with over 5 years of experience building large-scale, distributed, and high-performance systems across payment processing, learning platforms, and travel domains. Skilled in Java, PHP, Ruby, and C++, with proven expertise in optimizing real-time data pipelines, architecting microservices, and ensuring system reliability at scale. Adept at problem-solving across customer-facing and internal platforms, bridging technical and non-technical communication, and driving ownership through SLI/SLO monitoring, A/B testing, and system observability.
 
 - 🌍 Based in **Almere, Netherlands**
-- 💼 Currently working as a **Software Developer II** at **Frai GmbH**
+- 💼 Currently working as a **Application Engineer** at **Mollie**
 - 💡 Passionate about **AI/ML integrations**, **cutting-edge technologies**, and **Scalable Architecture**. I love diving deep into optimizing system performance, leveraging data-driven insights of real-world applications. My curiosity extends to **Quantum Computing** and **Edge AI**, always eager to learn and apply new advancements to create impactful tech solutions.
 
 ---
 
 ### 🏢 Professional Experience
 
-#### **Software Engineer II** | Frai GmbH | February 2024 – Present
+#### **Application Engineer** | Mollie | Netherlands | May, 2025 – Present
+Project: MCCS, Mollie Platform, Settlement Processing app
+- Engineering scalable and resilient payment systems, enabling millions of transactions across Europe.
+- Designed low-latency card payment flows with optimized acquirer integrations and robust APIs.
+- Enhanced system observability and reliability by monitoring SLIs/SLOs and addressing bottlenecks proactively.
+- **Tools**: Java, PHP, Spring Boot, MySQL, Docker, Redis, GCP.
+
+#### **Software Engineer** | Frai GmbH | February 2024 – April 2025
 - Lead developer for the **IKnowItAll** online math learning platform, designed for children to learn math in a gamified way.
 - Developed scalable backend architecture using **Java**, **Spring Boot**, **PostgreSQL**, **Docker**, and **Redis**.
 - Collaborated with stakeholders to ensure business requirements and technical feasibility, focusing on real-time tracking and performance.
@@ -35,10 +42,10 @@ I am a Java Backend Developer with over 4 years of experience designing, optimiz
 
 ### 🛠️ Skills & Technologies
 
-- **Languages**: Java, C, C++, Ruby, JavaScript, Python
+- **Languages**: Java, PHP, C, C++, Ruby, JavaScript, Python
 - **Backend Technologies**: Spring Boot, Ruby on Rails, REST API, GraphQL, Grape API
 - **Databases**: PostgreSQL, MySQL, SQL Server
-- **DevOps & Cloud**: Docker, CI/CD, Redis, Azure, AWS
+- **DevOps & Cloud**: Docker, CI/CD, Redis, Azure, AWS, GCP, Kubernetes
 - **Version Control**: Git, GitLab, Bitbucket
 - **Testing & Tools**: Rspec, JUnit, Swagger, JIRA, Rollbar
 
